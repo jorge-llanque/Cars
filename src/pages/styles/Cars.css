@@ -1,0 +1,6 @@
+.Cars {
+    width: 100%;
+    height: calc(100vh - 50px);
+    background-color: #a5e1ad;
+    padding: 20px;
+}
